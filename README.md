@@ -3,6 +3,7 @@
 <center>
     <h1>Esse tutorial é bem básico, para uso da biblioteca AOS para HTML, de forma direta e muito fácil.<h1>
 </center>
+
 # Ferramentas.
 
 <img
