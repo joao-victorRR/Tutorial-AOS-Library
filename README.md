@@ -17,4 +17,14 @@
     
 # Tutorial.
     
-        <a href="tutorial.md">Ir.</a>
+        <h2>1. Crie um simples arquivo html:5 básico</h2>
+        <img src="https://cdn.discordapp.com/attachments/970012719388450856/970028441229492254/carbon_1.png">
+        <br>
+        <h2>2. Solicitar stylesheet do AOS</h2>
+        <img src="https://cdn.discordapp.com/attachments/970012719388450856/970030152732012604/carbon_2.png">
+        <br>
+      <h2>3. Solicitar script javascript do AOS</h2>
+        <img src="https://cdn.discordapp.com/attachments/970012719388450856/970030563614396477/carbon_3.png">
+                <br>
+      <h2>4. iniciar o AOS</h2>
+        <img src="https://cdn.discordapp.com/attachments/970012719388450856/970030948223713300/carbon_4.png">
