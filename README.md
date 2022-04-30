@@ -15,7 +15,7 @@
 <a href="https://michalsnik.github.io/aos/">WebSite oficial.</a><br>
 <a href="https://github.com/michalsnik/aos">Github oficial.</a>
     
-# Tutorial.
+# Modo de uso.
     
         <h2>1. Crie um simples arquivo html:5 básico</h2>
         <img src="https://cdn.discordapp.com/attachments/970012719388450856/970028441229492254/carbon_1.png">
