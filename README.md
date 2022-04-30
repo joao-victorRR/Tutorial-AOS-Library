@@ -1,11 +1,11 @@
    # AOS (Animate On Scroll Library)
 
-    <center>
+   <center>
         <h1>Esse tutorial é bem básico, para uso da biblioteca AOS para HTML, de forma direta e muito fácil.<h1>
        
    # Modo de uso.
 
-    <h2>1. Crie um simples arquivo html:5 básico</h2>
+   <h2>1. Crie um simples arquivo html:5 básico</h2>
     <img src="https://cdn.discordapp.com/attachments/970012719388450856/970028441229492254/carbon_1.png">
     <br>
     <h2>2. Solicitar stylesheet do AOS</h2>
